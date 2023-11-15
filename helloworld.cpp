@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// https://code.visualstudio.com/docs/cpp/config-mingw
 int main()
 {
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
