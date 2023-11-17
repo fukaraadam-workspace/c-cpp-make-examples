@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "c-examples"
+		},
+		{
+			"path": "cpp-examples"
+		},
+		{
+			"path": "make-examples"
+		}
+	],
+	"settings": {}
+}
